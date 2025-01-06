@@ -1,2 +1,3 @@
 pathlib~=1.0.1
 paramiko~=2.8.1
+ftputil~=5.1.0
