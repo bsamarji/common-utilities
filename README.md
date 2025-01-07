@@ -1,10 +1,10 @@
 # common-utilities
-Python scripts that perform common utilities.
-Built using python 3.13
+* Python scripts that perform common utilities.
+* **Built using python 3.13**
 
 ### What is this repository for? ###
-Each python script has been written to perform one function or utility commonly performed by programmers in their daily lives.
-Each script was created to automate a tedious job to improve efficiencies in workflows and pipelines.
+* Each python script has been written to perform one function or utility commonly performed by programmers in their daily lives.
+* Each script was created to automate a tedious job to improve efficiencies in workflows and pipelines.
 
 ### How do I get set up? ###
 * Feel free to clone the repository and use the scripts for yourself.
